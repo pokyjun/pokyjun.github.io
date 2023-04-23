@@ -403,7 +403,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824987-42eb54bc-cc20-4c95-8442-831a2f048442.png)
     
 
 
@@ -426,7 +426,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824989-e34be182-9497-4922-bcde-fb1d9f1e168b.png)
     
 
 
@@ -445,7 +445,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824990-89eddad7-96e9-465d-836c-082d72e3c42e.png)
     
 
 
@@ -464,7 +464,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824992-ebcadd03-7fde-4d3b-9f87-b4126e00c7f3.png)
     
 
 
@@ -503,7 +503,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824993-aaa1d424-ec15-4729-b23e-fa5359f6e6e8.png)
     
 
 
@@ -527,7 +527,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824994-320d8553-3b74-44eb-b1b7-9557c6f2e1d0.png)
     
 
 
@@ -541,7 +541,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824995-1d0d604b-2513-4744-b250-dbe224160c3b.png)
     
 
 
@@ -556,7 +556,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824996-109d8622-93db-4196-9e40-bd619f3d74f6.png)
     
 
 
@@ -577,7 +577,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824997-18a7478d-3583-4857-a88b-2d60b9df2b5c.png)
     
 
 
@@ -594,7 +594,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233824999-95d973d3-3216-4077-b9cf-b4222a19f6c1.png)
     
 
 
@@ -608,7 +608,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233825000-2c5da65f-6a9f-43a7-a131-9a0d800671f6.png)
     
 
 
@@ -625,7 +625,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](https://user-images.githubusercontent.com/103250467/233825001-050b5bd5-0fae-42f9-854b-61a2432c8f17.png)
     
 
 
