@@ -1,3 +1,14 @@
+---
+layout : single
+title: "Shop Customer Data"
+categories : "분석"
+tag : [python, Pandas]
+author_profile: false
+sidebar:
+  nav: "docs"
+---
+
+
 Kaggle의 Shop Customer Data입니다.
 - CustomerID : 고객 아이디
 - Gender : 성별
