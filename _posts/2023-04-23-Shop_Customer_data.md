@@ -381,7 +381,7 @@ plt.title('회원 수')
 
 
     
-![png](output_13_1.png)
+![png](https://user-images.githubusercontent.com/103250467/233824986-592da65e-f643-416d-bf33-4ab5db637b4a.png)
     
 
 
